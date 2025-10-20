@@ -1,9 +1,11 @@
 Daily Python Practice 🚀
+
 Welcome to my Daily Python Practice repository! 🎯
 Every day, I upload small Python programs to strengthen my programming fundamentals.
 This journey is all about learning by doing — from simple input/output to real-world problem-solving. 💪
 
 About the Repository
+
 This repository contains all the Python scripts I create daily while learning Python step by step.
 Each program focuses on:
 
