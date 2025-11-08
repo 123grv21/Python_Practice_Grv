@@ -1,7 +1,7 @@
-# 🐍 Daily Python Practice 🚀
+# 🐍 Python Practice 🚀
 
-Welcome to my **Daily Python Practice** repository! 🎯  
-Every day, I practice **Python programming topics** — from the absolute basics to more advanced concepts. This repository is my digital notebook where I experiment, learn, and grow as a programmer. 💡  
+Welcome to my **Python Practice** repository! 🎯  
+I practice **Python programming topics** — from the absolute basics to more advanced concepts. This repository is my digital notebook where I experiment, learn, and grow as a programmer. 💡  
 
 Each script I upload focuses on one or more of the following:
 - 🔢 Understanding Python fundamentals (variables, datatypes, operators)
@@ -15,7 +15,7 @@ Each script I upload focuses on one or more of the following:
 
 ## 📘 About the Repository
 
-This repository contains all the Python scripts I create daily while learning Python step by step.  
+This repository contains all the Python scripts I create while learning Python step by step.  
 Each program is short, clear, and designed to explain one core concept in a simple way.
 
 Whether you’re a **beginner** or **revising your basics**, this repo is a great place to start!  
